@@ -1,5 +1,5 @@
 
-# 🚀 Python Multi Launcher (Windows BAT)
+# 🚀 Universal Python Multi Launcher (Windows BAT)
 
 Launcher leggero in **Batch per Windows** che permette di avviare facilmente **uno o più script Python**, inclusa la possibilità di eseguire **più istanze dello stesso script**, tramite un menu interattivo.
 
